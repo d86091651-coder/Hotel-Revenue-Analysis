@@ -153,5 +153,3 @@ Revenue leakage identification
 Customer behavior insights
 
 Executive-level decision support
-
-Dashboard Link: https://github.com/Dimple02/Hotel-Analytics-Overview/blob/main/Hotel%20Analytics%20Overview.pdf
